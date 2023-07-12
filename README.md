@@ -4,7 +4,7 @@ I did this  project as a part of a full stack app development crash course. I ad
 
 ## Database
 
-This project uses supabase as its database annd utilizes its API.
+This project uses supabase as its database and utilizes its API.
 
 ## Prerequisites
 
