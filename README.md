@@ -15,7 +15,7 @@ This project uses supabase as its database and utilizes its API.
 
 1. Clone the repository to your local machine:
 ```shell
-git clone [https://github.com/VickSuresh/Notes.git](https://github.com/laraozcelik/today-i-learned.git)
+git clone https://github.com/laraozcelik/today-i-learned.git
 ```
 
 2. Install Dependencies:
